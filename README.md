@@ -37,7 +37,7 @@ Addresses use BLAKE2B at variable digest lengths with other information attached
 - [X] EsphandSigning (FALCON1024 & ED25519)
 - [X] AbsolveSigning (ML-DSA3 & ED25519)
 
---
+---
 
 ### libslug20: A Modern Cryptography Library For Web 3.20 With Support For Post-Quantum Signatures
 
@@ -78,7 +78,7 @@ Addresses use BLAKE2B at variable digest lengths with other information attached
 OpenInternetCryptographyKeys is a crate/library for easy, modern cryptography and abstracts from all the complicated stuff. It is serialized into PEM format.
 
 
---
+---
 
 ### Ipomea-Blockchain
 
