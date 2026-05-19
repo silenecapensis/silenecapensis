@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is SileneCapensis (or silene0259) and I am a developer with multiple hobbies. I write code in Rust, HTML, CSS, Javascript/Typescript mainly.
+My name is SileneCapensis (or silene0259) and I am a developer with multiple hobbies. I write code in Rust, HTML, CSS, Javascript/Typescript mainly. Please follow me to stay updated on new projects. Working under [WeSpeakInCursive.xyz](https://wespeakincursive.xyz)
 
 ## Social
 
