@@ -9,7 +9,7 @@ My name is SileneCapensis (or silene0259) and I am a developer with multiple hob
 
 ## Research
 
-[Research-silenexy](https://github.com/silenecapensis/Research-silenexy)
+[Research-silenexyz](https://github.com/silenecapensis/Research-silenexy)
 
 ## Projects
 
